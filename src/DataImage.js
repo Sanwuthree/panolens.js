@@ -6,7 +6,7 @@
      * Data Image Source
      * @type {String}
      */
-    PANOLENS.DataImageSource = 'https://pchen66.github.io/Panolens/asset/icon/';
+    PANOLENS.DataImageSource = 'https://backend-ltsp.oss-cn-hangzhou.aliyuncs.com/lantusupeibackend/asset/icon/';
 
     /**
      * Data Image
