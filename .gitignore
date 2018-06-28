@@ -3,3 +3,5 @@ bower_components
 test
 .idea/*
 .DS_Store
+build/
+docs/
